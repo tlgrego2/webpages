@@ -1,19 +1,21 @@
 /*
- *Name: [First Last]
- *UnityID: [unityID]
- *Date: [Date Completed]
- *Assignment: [Assignment Name]
- *Description: [Assignment Description]
+ *Name: [Trenton Gregory]
+ *UnityID: [tlgrego2]
+ *Date: [11-08-2024]
+ *Assignment: [Project 4]
  */
  
-p {
-    property: value;
-}
 
 .class {
-    property: value;
+    background-color: #BFA478;
 }
 
-#id {
-    property:value;
+.table-border {
+    border: 2px 
+}
+
+#photo resize {
+    max-width: 200px;
+    max-height: 250px;
+    border: #00AA10;
 }
